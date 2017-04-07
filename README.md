@@ -1,1 +1,1 @@
-# test_email-zurb-foundation-
+Тестовая верстка письма с помощью Zurb.
